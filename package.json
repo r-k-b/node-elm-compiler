@@ -1,7 +1,7 @@
 {
-  "name": "node-elm-compiler",
-  "version": "5.0.6",
-  "description": "A Node.js interface to the Elm compiler binaries.",
+  "name": "node-elm-compiler-forked",
+  "version": "0.0.1",
+  "description": "A temporary fork of rtfeldman/node-elm-compiler",
   "main": "dist/index.js",
   "scripts": {
     "prepack": "npm run build",
